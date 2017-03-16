@@ -1,0 +1,9 @@
+#test{
+	width: auto;
+	height: 600px;
+}
+
+@media (max-width: 767px) {
+  #ribbon {
+    background-color:#474747;
+  }
